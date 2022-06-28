@@ -21,6 +21,58 @@ Los nombres de los jugadores y sus puntajes históricos se guardarán en una bas
 
 A continuación, especificamos los bocetos de la interfaz de la aplicación.
 
+Como Jugar:
+Advina la palabra en 6 intentos.
+Cada intento debe ser una palabra valida de 5 letras.Pulsa ENTER para enviar.
+Despues de cada intento el color de las letras cambia para mostrar que tan cerca estás de acertar la palabra
+![image](https://user-images.githubusercontent.com/100932219/176168005-3ea8365a-aa65-40e2-a34f-695f196ef5af.png)
+
+
+
+
+Tareas
+
+Investigación y redacción de las palabras
+Diseño de imagen y de la UI
+Diseño de la base de datos 
+Funciones de interacción con la base (API, Flask) 
+Front-end del juego (HTML, CSS, JS)
+Testeo 
+Puesta en producción
+
+
+Responsabilidades
+
+   Robles
+   Navarro
+   Gedris
+   Arucutipa
+
+
+Primer entregable (30/6)
+
+Estructura de la base de datos
+Preguntas y respuestas
+Reglas y puntajes
+Maqueta html
+
+Segundo entregable (7/7)
+
+API en flask de preguntas y respuestas
+UI de preguntas y respuestas en conjunto con back-end
+Pruebas de juego
+
+Tercer entregable (14/7)
+
+Juego completo en línea
+
+
+
+
+
+
+
+
 
 
 

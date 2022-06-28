@@ -3,7 +3,9 @@ Proyecto interdisciplinario
 Primer cuatrimestre
 
 
-Propuesta de trabajo                                                Grupo: 10 División: 5ºB    
+Propuesta de trabajo                                              
+                                                   
+                                                               Grupo: 10 División: 5ºB    
 
 Integrantes: Andy Arucutipa, Nicolás Gedris, Julian Navarro y Maximo Robles
 
@@ -21,6 +23,12 @@ Los nombres de los jugadores y sus puntajes históricos se guardarán en una bas
 
 A continuación, especificamos los bocetos de la interfaz de la aplicación.
 
+
+
+
+
+
+
 Como Jugar:
 
 Advina la palabra en 6 intentos.
@@ -34,7 +42,13 @@ Despues de cada intento el color de las letras cambia para mostrar que tan cerca
 
 
 
-Tareas
+
+
+
+
+
+
+Tareas:
 
 Investigación y redacción de las palabras
 Diseño de imagen y de la UI

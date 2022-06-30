@@ -5,7 +5,7 @@ Primer cuatrimestre
 
 Propuesta de trabajo                                              
                                                    
-                                                        Grupo: 10 División: 5ºB    
+   Grupo: 10 División: 5ºB    
 
 Integrantes: Andy Arucutipa, Nicolás Gedris, Julian Navarro y Maximo Robles
 

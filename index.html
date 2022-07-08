@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Wordle.pio</title>
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Paytone+One&display=swap'>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="logo.jpg">
+
+</head>
+<body>
+    <div class="area" >
+        <ul class="circles">
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+        </ul>
+    </div >
+    <div id="load-container">
+      <h1 data-text="WORDLE.pio">WORDLE.pio</h1>
+      <button class="jugar" onclick="showHide();">PLAY</button>
+      <button id="rules"onclick="showHide();">RULES</button>
+  </div>
+  
+  <div id="game-container">
+      <div id="score">SCORE :</div> 
+      <div id="game" class="game">
+          <h1>WORDLE</h1>
+          <div id="grid"></div>
+          <div id="message">&nbsp;</div>
+      </div>
+  </div>
+    <script  src="/script.js"></script>
+</body>
+</html>

@@ -27,19 +27,28 @@ A continuación, especificamos los bocetos de la interfaz de la aplicación.
 Tareas:
 
 Investigación y redacción de las palabras
+
 Diseño de imagen y de la UI
+
 Diseño de la base de datos 
+
 Funciones de interacción con la base (API, Flask) 
+
 Front-end del juego (HTML, CSS, JS)
+
 Testeo 
+
 Puesta en producción
 
 
 Responsabilidades
 
    Robles 1
+   
    Navarro 2 y 3
+   
    Gedris 4 y 5
+   
    Arucutipa 5 y 6
 
 

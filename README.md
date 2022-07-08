@@ -37,10 +37,10 @@ Puesta en producción
 
 Responsabilidades
 
-   Robles
-   Navarro
-   Gedris
-   Arucutipa
+   Robles 1
+   Navarro 2 y 3
+   Gedris 4 y 5
+   Arucutipa 5 y 6
 
 
 Primer entregable (30/6)

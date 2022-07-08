@@ -41,12 +41,15 @@ Tareas:
 -Puesta en producción
 
 
-Responsabilidades
+Responsabilidades:
 
   Robles 1
-    Navarro 2 y 3
+  
+  Navarro 2 y 3
+  
   Gedris 4 y 5
-    Arucutipa 5 y 6
+  
+  Arucutipa 5 y 6
 
 
 Primer entregable (30/6)

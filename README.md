@@ -52,23 +52,6 @@ Responsabilidades:
   Arucutipa 5 y 6
 
 
-Primer entregable (30/6)
-
-Estructura de la base de datos
-Preguntas y respuestas
-Reglas y puntajes
-Maqueta html
-
-Segundo entregable (7/7)
-
-API en flask de preguntas y respuestas
-UI de preguntas y respuestas en conjunto con back-end
-Pruebas de juego
-
-Tercer entregable (14/7)
-
-Juego completo en línea
-
 
 
 

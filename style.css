@@ -14,8 +14,8 @@
 }
 
 .area{
-    background: #228B22;  
-    background: -webkit-linear-gradient(to left, #4fd335, #169b21);  
+    background: #252839;  
+    background: -webkit-linear-gradient(to left, #2c3e50, #2c3e50);  
     width: 100%;
     height:100vh;
 }
@@ -144,11 +144,12 @@
 }
 
 #load-container h1 {
-font-size: 4rem;
-color: #ffffff;
--webkit-text-stroke: .1rem #2c3e50;
-position: relative;
-}
+    font-size: 4rem;
+    color: #252839;
+    -webkit-text-stroke: .1rem #2c3e50;
+    position: relative;
+    }
+    
 
 #load-container h1:before{
     content: attr(data-text);
@@ -157,7 +158,7 @@ position: relative;
     top: 0;
     width: 0;
     height: 100%;
-    color: #252839;
+    color: #2ecc71;
     -webkit-text-stroke: 0;
     overflow: hidden;
     border-right: 2px solid;
@@ -296,4 +297,3 @@ position: relative;
         color: white;
         transform: scale(1.05);
     }
-    

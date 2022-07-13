@@ -22,6 +22,19 @@ const Words = [
     "Pacto",
     "Ayuda",
     ];
+
+const open = document.getElementById('open');
+const modal_container = document.getElementById('modal_container');
+const close = document.getElementById('close');
+
+open.addEventListener('click', () => {
+  modal_container.classList.add('show');  
+});
+
+close.addEventListener('click', () => {
+  modal_container.classList.remove('show');
+});
+
     const delay = (ms) => new Promise((res) => setTimeout(res, ms));
     let Word = Words[Math.floor(Math.random() * Words.length)].toUpperCase();
     let WordArray = Word.split("");
@@ -100,6 +113,7 @@ const Words = [
             resetGame();
         }
     };
+
     
     const gameSetup = (dimentions) => {
         maxRows = dimentions;

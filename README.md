@@ -34,16 +34,16 @@ Tareas:
 
 -Funciones de interacción con la base (API, Flask) 
 
--Front-end del juego (HTML, CSS, JS)
+-Front-end del juego (HTML, CSS)
 
 -Testeo 
 
 -Puesta en producción
-
+-JS
 
 Responsabilidades:
 
-  Robles 1
+  Robles 1 y 7 
   
   Navarro 2 y 3
   

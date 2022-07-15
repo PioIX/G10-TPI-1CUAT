@@ -6,7 +6,7 @@ Integrantes: Andy Arucutipa, Nicolás Gedris, Julian Navarro y Maximo Robles
 
 Título de la propuesta: Wordle sobre poner fin a la pobreza en todas sus formas (ODS 1)
 
-Descripción de la propuesta:
+Introducción:
 Vamos a desarrollar una aplicación web que permita al usuario conocer características y propuestas utilizados en el ámbito de los ODS en general y el ODS "Fin de la pobreza" en particular.
 
 Tendrá formato de Wordle con casilleros vacíos en donde el jugador debra rellenarlos con las letras correspondientes así dando progresivamente con la respuesta.
@@ -17,8 +17,8 @@ Los nombres de los jugadores y sus puntajes históricos se guardarán en una bas
 
 A continuación, especificamos los bocetos de la interfaz de la aplicación.
 
-
-
+App de Flask:
+https://replit.com/join/ryssnmjvif-nicolas-ezequi2
 
 
 

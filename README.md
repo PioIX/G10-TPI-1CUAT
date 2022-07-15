@@ -20,6 +20,8 @@ A continuación, especificamos los bocetos de la interfaz de la aplicación.
 App de Flask:
 https://github.com/PioIX/App_g10
 
+https://replit.com/@Nicolas-Ezequi2/Proyecto#main.py
+
 Presupuesto:
 
 

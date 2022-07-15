@@ -20,6 +20,8 @@ A continuación, especificamos los bocetos de la interfaz de la aplicación.
 App de Flask:
 https://replit.com/join/ryssnmjvif-nicolas-ezequi2
 
+Presupuesto:
+
 
 
 

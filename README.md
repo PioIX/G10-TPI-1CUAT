@@ -1,18 +1,12 @@
 # G10-TPI-1CUAT
-Proyecto interdisciplinario
-Primer cuatrimestre
 
-
-Propuesta de trabajo                                              
-                                                   
-                              Grupo: 10 División: 5ºB    
+                                                     Trabajo interdisciplinario Grupo nº10
 
 Integrantes: Andy Arucutipa, Nicolás Gedris, Julian Navarro y Maximo Robles
 
 Título de la propuesta: Wordle sobre poner fin a la pobreza en todas sus formas (ODS 1)
 
 Descripción de la propuesta:
-
 Vamos a desarrollar una aplicación web que permita al usuario conocer características y propuestas utilizados en el ámbito de los ODS en general y el ODS "Fin de la pobreza" en particular.
 
 Tendrá formato de Wordle con casilleros vacíos en donde el jugador debra rellenarlos con las letras correspondientes así dando progresivamente con la respuesta.
@@ -22,35 +16,6 @@ El juego se jugará de manera casual por lo que llegará a su fin cuando se acab
 Los nombres de los jugadores y sus puntajes históricos se guardarán en una base de datos; con estos datos se podrá ver el ranking de puntajes. 
 
 A continuación, especificamos los bocetos de la interfaz de la aplicación.
-
-
-Tareas:
-
--Investigación y redacción de las palabras
-
--Diseño de imagen y de la UI
-
--Diseño de la base de datos 
-
--Funciones de interacción con la base (API, Flask) 
-
--Front-end del juego (HTML, CSS)
-
--Testeo 
-
--Puesta en producción
--JS
-
-Responsabilidades:
-
-  Robles 1 y 7 
-  
-  Navarro 2 y 3
-  
-  Gedris 4 y 5
-  
-  Arucutipa 5 y 6
-
 
 
 

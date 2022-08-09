@@ -23,7 +23,6 @@ https://github.com/PioIX/App_g10
 
 https://replit.com/@Nicolas-Ezequi2/Proyecto#main.py
 
-Presupuesto:
 
 
 

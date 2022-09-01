@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <title>Wordle.pio</title>
   <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Paytone+One&display=swap'>
-  <link rel="stylesheet" href="style.css">
-  <link rel="icon" href="logo.jpg">
+  <link rel="stylesheet" href="static/style.css">
+  <link rel="icon" href="/static/logo.jpg">
 
 <!-- 1- Crear boton de INICIO para una mejor navegacion-->
 
@@ -43,7 +43,7 @@
     <br>
     - Despues de cada intento el color de las letras cambia para mostrar que tan cerca estás de acertar la palabra
     </p>
-    <img src="rules.PNG" alt="foto">
+    <img src="/static/rules.PNG" alt="foto">
       <button id="close">Cerrar</button>
     </div>
   </div>
@@ -51,11 +51,12 @@
 <div id="game-container">
     <div id="score">SCORE :</div> 
     <div id="game" class="game">
-        <h1>WORDLE</h1>
+        <button onclick="location.href='https://proyecto.nicolas-ezequi2.repl.co/'"type="reset" class="boton">WORDLE</button>
+        <br>
     <div id="grid"></div>
     <div id="message">&nbsp;</div>
     </div>
 </div>
-    <script  src="./script.js"></script>
+    <script  src="static/script.js"></script>
 </body>
 </html>

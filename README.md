@@ -18,7 +18,7 @@ Los nombres de los jugadores y sus puntajes históricos se guardarán en una bas
 A continuación, especificamos los bocetos de la interfaz de la aplicación.
 
 
-Gedris.pythonanywhere.com
+https://gedris.pythonanywhere.com/
 
 https://replit.com/@Nicolas-Ezequi2/Proyecto#main.py
 

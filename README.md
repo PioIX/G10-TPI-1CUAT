@@ -20,7 +20,7 @@ A continuación, especificamos los bocetos de la interfaz de la aplicación.
 
 https://gedris.pythonanywhere.com/
 
-https://replit.com/@Nicolas-Ezequi2/Proyecto#main.py
+
 
 
 

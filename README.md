@@ -15,9 +15,6 @@ El juego se jugará de manera casual por lo que llegará a su fin cuando se acab
 
 Los nombres de los jugadores y sus puntajes históricos se guardarán en una base de datos; con estos datos se podrá ver el ranking de puntajes. 
 
-A continuación, especificamos los bocetos de la interfaz de la aplicación.
-
-
 https://gedris.pythonanywhere.com/
 
 

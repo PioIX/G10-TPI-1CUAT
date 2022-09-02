@@ -17,9 +17,8 @@ Los nombres de los jugadores y sus puntajes históricos se guardarán en una bas
 
 A continuación, especificamos los bocetos de la interfaz de la aplicación.
 
-App de Flask:
 
-https://github.com/PioIX/App_g10
+Gedris.pythonanywhere.com
 
 https://replit.com/@Nicolas-Ezequi2/Proyecto#main.py
 
